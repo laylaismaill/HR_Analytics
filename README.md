@@ -44,6 +44,7 @@ The goal of this project is to make HR data easy to understand using visuals and
 Layla Ismail 
 📧 Email: [laylaelkordy@gmail.com](mailto:laylaelkordy@gmail.com)  
 🔗 LinkedIn: [Layla Ismail](https://www.linkedin.com/in/layla-ismail-3b28a3322)  
+
 ---
 
 ## 💡 Future Ideas
